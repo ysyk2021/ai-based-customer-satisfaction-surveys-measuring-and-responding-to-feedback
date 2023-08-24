@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the various ways in which artificial intelligence (AI) can be used in customer satisfaction surveys. We discussed the different types of AI, including sentiment analysis, natural language processing, machine learning, and deep learning, and provided real-world examples of successful use cases.
 

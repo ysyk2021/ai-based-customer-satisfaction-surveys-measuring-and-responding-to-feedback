@@ -1,5 +1,3 @@
-Deep Learning in Customer Satisfaction Surveys
-=======================================================
 
 In this chapter, we will explore how deep learning can be used to analyze customer feedback in customer satisfaction surveys. We will discuss the basics of deep learning, its applications in customer satisfaction surveys, and various types of deep learning algorithms that are commonly used.
 

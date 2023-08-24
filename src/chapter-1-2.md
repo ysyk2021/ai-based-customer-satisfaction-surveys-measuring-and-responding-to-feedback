@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Applications in Customer Satisfaction Surveys
-================================================================================================================
 
 In this chapter, we will provide an overview of artificial intelligence (AI) and its applications in customer satisfaction surveys. We will discuss the basics of AI, its benefits in analyzing customer feedback, and how it can be used to improve customer experiences.
 

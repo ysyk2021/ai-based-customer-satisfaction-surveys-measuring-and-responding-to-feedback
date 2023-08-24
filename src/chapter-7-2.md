@@ -1,5 +1,3 @@
-Types of Deep Learning Algorithms Used in Customer Satisfaction Surveys
-================================================================================================================================
 
 In this chapter, we will explore the different types of deep learning algorithms used in customer satisfaction surveys. We will discuss how deep learning works, its applications in customer satisfaction surveys, and the various algorithms that are used to analyze customer feedback.
 

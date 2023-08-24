@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Customer Satisfaction Surveys
-===========================================================================================================================================================
 
 In this chapter, we will explore the different types of artificial intelligence (AI) and their applications in customer satisfaction surveys. We will discuss the basics of each type of AI, its benefits in analyzing customer feedback, and how it can be used to improve customer experiences.
 

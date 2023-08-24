@@ -1,5 +1,3 @@
-Ethical Issues Associated with the Use of AI in Customer Satisfaction Surveys
-=============================================================================================================================
 
 In this chapter, we will explore the ethical issues associated with the use of artificial intelligence (AI) in customer satisfaction surveys. We will discuss the importance of ethical considerations when using AI, the potential ethical issues that can arise, and how to address these issues.
 

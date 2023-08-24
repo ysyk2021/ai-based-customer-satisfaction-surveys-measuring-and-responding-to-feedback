@@ -1,5 +1,3 @@
-Overview of Machine Learning and its Applications in Customer Satisfaction Surveys
-==============================================================================================================================================
 
 In this chapter, we will explore machine learning and its applications in customer satisfaction surveys. We will discuss how machine learning works and its advantages in improving the accuracy and efficiency of customer satisfaction surveys.
 

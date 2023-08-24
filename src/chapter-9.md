@@ -1,5 +1,3 @@
-Ethical and Regulatory Considerations
-==============================================
 
 In this chapter, we will explore the ethical and regulatory considerations associated with the use of artificial intelligence (AI) in customer satisfaction surveys. We will discuss the ethical issues surrounding the use of AI, the regulatory frameworks governing its use, and future directions and challenges.
 

@@ -1,5 +1,3 @@
-Types of Natural Language Processing Techniques Used in Customer Satisfaction Surveys
-============================================================================================================================================================
 
 In this chapter, we will explore the different types of natural language processing (NLP) techniques used in customer satisfaction surveys. We will discuss how these techniques work and their advantages in improving the accuracy and efficiency of customer satisfaction surveys.
 

@@ -1,4 +1,3 @@
-# Introduction
 
 In today's business landscape, customer satisfaction has become an essential factor in determining the success of any organization. With increasing competition and a growing emphasis on customer experience, businesses need to understand their customers' needs and preferences better. In this context, AI-based customer satisfaction surveys provide a powerful tool for measuring and responding to feedback.
 

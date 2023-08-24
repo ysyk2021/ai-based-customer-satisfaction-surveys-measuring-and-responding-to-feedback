@@ -1,5 +1,3 @@
-Sentiment Analysis in Customer Satisfaction Surveys
-============================================================
 
 In this chapter, we will explore how sentiment analysis can be used to analyze customer feedback in customer satisfaction surveys. We will discuss the basics of sentiment analysis, its applications in customer satisfaction surveys, and various types of sentiment analysis techniques that are commonly used.
 

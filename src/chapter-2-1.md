@@ -1,5 +1,3 @@
-Overview of Customer Satisfaction Surveys
-===============================================================================================
 
 In this chapter, we will provide an overview of customer satisfaction surveys, including their purpose and benefits. We will also discuss the different types of customer satisfaction surveys and best practices for designing and conducting them.
 

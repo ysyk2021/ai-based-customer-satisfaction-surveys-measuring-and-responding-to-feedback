@@ -1,5 +1,3 @@
-Traditional Approaches to Customer Satisfaction Surveys
-=============================================================================================================
 
 In this chapter, we will explore traditional approaches to customer satisfaction surveys. We will discuss the purpose of these surveys, the different types of questions that can be asked, and their benefits and limitations.
 

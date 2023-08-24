@@ -1,5 +1,3 @@
-Overview of Natural Language Processing and its Applications in Customer Satisfaction Surveys
-====================================================================================================================================================================
 
 In this chapter, we will explore natural language processing (NLP) and its applications in customer satisfaction surveys. We will discuss how NLP works and its advantages in improving the accuracy and efficiency of customer satisfaction surveys.
 

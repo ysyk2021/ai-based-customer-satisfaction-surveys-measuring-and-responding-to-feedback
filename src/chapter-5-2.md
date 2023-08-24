@@ -1,5 +1,3 @@
-Types of Sentiment Analysis Techniques Used in Customer Satisfaction Surveys
-==========================================================================================================================================
 
 In this chapter, we will explore the different types of sentiment analysis techniques used in customer satisfaction surveys. We will discuss the basics of sentiment analysis, its applications in customer satisfaction surveys, and the various techniques that are used to analyze customer feedback.
 

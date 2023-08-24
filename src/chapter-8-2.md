@@ -1,5 +1,3 @@
-Best Practices for Responding to Customer Feedback Using AI
-=====================================================================================================
 
 In this chapter, we will explore best practices for responding to customer feedback using artificial intelligence (AI). We will discuss the importance of responding to customer feedback and how AI can be used to respond quickly and effectively.
 

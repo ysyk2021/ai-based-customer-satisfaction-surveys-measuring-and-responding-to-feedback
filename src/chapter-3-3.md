@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Customer Satisfaction Surveys
-=================================================================================================================================
 
 In this chapter, we will explore case studies that demonstrate the successful use of artificial intelligence (AI) in customer satisfaction surveys. We will discuss how AI works, its advantages and limitations, and provide examples of businesses that have used AI to improve their customer satisfaction levels.
 

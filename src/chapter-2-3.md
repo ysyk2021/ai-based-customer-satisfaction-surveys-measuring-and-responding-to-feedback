@@ -1,5 +1,3 @@
-Limitations and Challenges of Traditional Approaches
-==========================================================================================================
 
 In this chapter, we will explore the limitations and challenges of traditional approaches to customer satisfaction surveys. We will discuss some common issues with traditional survey methods and how AI-based approaches can help overcome them.
 

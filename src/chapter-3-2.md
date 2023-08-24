@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Customer Satisfaction Surveys
-====================================================================================================================================
 
 In this chapter, we will explore the advantages and limitations of using artificial intelligence (AI) in customer satisfaction surveys. We will discuss how AI works, its benefits in analyzing customer feedback, as well as potential limitations that businesses should be aware of.
 

@@ -1,5 +1,3 @@
-Case Studies on the Use of Sentiment Analysis in Customer Satisfaction Surveys
-============================================================================================================================================
 
 In this chapter, we will explore case studies that demonstrate the successful use of sentiment analysis in customer satisfaction surveys. We will discuss how sentiment analysis works, its advantages, and limitations, and provide examples of businesses that have used sentiment analysis to improve their customer satisfaction levels.
 

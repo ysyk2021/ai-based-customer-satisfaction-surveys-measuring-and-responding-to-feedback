@@ -1,5 +1,3 @@
-Overview of Sentiment Analysis and its Applications in Customer Satisfaction Surveys
-==================================================================================================================================================
 
 In this chapter, we will provide an overview of sentiment analysis and its applications in customer satisfaction surveys. We will discuss the basics of sentiment analysis, how it works, and its advantages in analyzing customer feedback.
 

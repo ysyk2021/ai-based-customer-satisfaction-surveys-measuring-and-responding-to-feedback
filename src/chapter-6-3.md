@@ -1,5 +1,3 @@
-Case Studies on the Use of Machine Learning in Customer Satisfaction Surveys
-========================================================================================================================================
 
 In this chapter, we will explore case studies that demonstrate the use of machine learning in customer satisfaction surveys. These case studies highlight how businesses have successfully leveraged machine learning algorithms to improve their customer satisfaction surveys.
 

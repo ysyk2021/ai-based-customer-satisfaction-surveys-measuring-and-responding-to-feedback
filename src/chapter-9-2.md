@@ -1,5 +1,3 @@
-Regulatory Frameworks Governing the Use of AI in Customer Satisfaction Surveys
-==============================================================================================================================
 
 In this chapter, we will explore regulatory frameworks governing the use of artificial intelligence (AI) in customer satisfaction surveys. We will discuss the importance of complying with these regulations and the potential consequences of non-compliance.
 

@@ -1,5 +1,3 @@
-Understanding Customer Satisfaction Surveys
-====================================================
 
 In this chapter, we will provide an overview of customer satisfaction surveys and their importance in understanding customer feedback. We will also discuss traditional approaches to customer satisfaction surveys, their limitations, and challenges.
 

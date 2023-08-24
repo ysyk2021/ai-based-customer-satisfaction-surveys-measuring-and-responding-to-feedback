@@ -1,5 +1,3 @@
-Types of Machine Learning Algorithms Used in Customer Satisfaction Surveys
-======================================================================================================================================
 
 In this chapter, we will explore the different types of machine learning algorithms that can be used in customer satisfaction surveys. We will discuss how these algorithms work and their advantages in improving the accuracy and efficiency of customer satisfaction surveys.
 

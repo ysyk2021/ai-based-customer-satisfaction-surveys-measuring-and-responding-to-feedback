@@ -1,5 +1,3 @@
-Case Studies on the Use of Deep Learning in Customer Satisfaction Surveys
-==================================================================================================================================
 
 In this chapter, we will explore case studies that demonstrate the successful use of deep learning in customer satisfaction surveys. We will discuss how deep learning works, its advantages, and limitations, and provide examples of businesses that have used deep learning to improve their customer satisfaction levels.
 
