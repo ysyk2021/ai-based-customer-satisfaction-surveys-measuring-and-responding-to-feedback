@@ -8,3 +8,7 @@ This book provides a comprehensive guide to AI-based customer satisfaction surve
 By the end of this book, readers will have a thorough understanding of how to use AI-based customer satisfaction surveys to drive business success while maintaining ethical and responsible practices. Whether you are a business owner, marketer, or researcher, this book provides valuable insights into the latest trends and best practices for using AI to measure and respond to customer feedback.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
