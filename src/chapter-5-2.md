@@ -1,5 +1,4 @@
-Chapter: Types of Sentiment Analysis Techniques Used in Customer Satisfaction Surveys
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
